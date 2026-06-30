@@ -6,7 +6,7 @@ An interactive Tableau dashboard built using the **Sample Superstore** dataset t
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](Images/Dashboard.png)
 
 ---
 
