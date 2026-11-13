@@ -104,7 +104,7 @@ This dataset is commonly used for learning business intelligence and data visual
 
 **Devi Sri Parvathi Junjuri**
 
-Aspiring Data Analyst | Tableau | SQL | Python | Machine Learning
+Aspiring Software Engineer | Interested in Data Science | Machine Learning | Generative AI | Agentic AI
 
 ---
 
